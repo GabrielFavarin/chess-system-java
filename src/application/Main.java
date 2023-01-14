@@ -12,3 +12,4 @@ public class Main {
         UI.printBoard(chessMatch.getPieces());
     }
 }
+
